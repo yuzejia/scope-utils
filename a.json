@@ -1,0 +1,28 @@
+{
+    "letterPagers":[
+      [
+        "https://nespresso-staging-westore.d1mgroup.com/attached/nestle//null/2021081011//small/2021081011511014683d0b0cf99556.png?1628567470270",
+        "https://nespresso-staging-westore.d1mgroup.com/attached/nestle//null/2021091321//small/2021091321350783798601f6de36.png?1631770774069"],
+      [
+        "https://nespresso-staging-westore.d1mgroup.com/attached/nestle//null/2021081011//small/2021081011511059110471cbac5999.png?1628567470275",
+        "https://nespresso-staging-westore.d1mgroup.com/attached/nestle//null/2021091321//small/2021091321350532495f882509179.png?1631540105701"
+      ],
+      [
+        "https://nespresso-staging-westore.d1mgroup.com/attached/nestle//null/2021081011//small/20210810115110824498d1974f9514.png?1628567470328",
+        "https://nespresso-staging-westore.d1mgroup.com/attached/nestle//null/2021091321//small/2021091321350812019e8da1279496.png?1631540109320"
+      ]
+    ],
+    "shareMessage":{
+      "title":"TA送您一份礼物，赶紧拆开吧！",
+      "imageUrl":"https://wechatstore.nespressochina.com/attached/nestle//null/2021081813//small/202108181351264924933b4f103762.png?1629265886772"
+    },
+    "lp":{
+      "default":"22",
+      "popup":"23"
+    },
+
+    "backageImage": [
+        "https://nespresso-staging-westore.d1mgroup.com/attached/nestle//null/2021091321//small/2021091321350812019e8da1279496.png?1631540109320",
+        "https://nespresso-staging-westore.d1mgroup.com/attached/nestle//null/2021091321//small/2021091321350783798601f6de36.png?1631770774069"
+    ]
+  }
