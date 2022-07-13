@@ -6,7 +6,8 @@
   "module": "lib/bundle.esm.js",
   "browser": "lib/bundle.js",
   "scripts": {
-    "test": "rollup -c"
+    "build": "rollup -c",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
