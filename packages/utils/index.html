@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <button id="btn">点击</button>
+    </div>
+    
+    <script src="./inidex.js">
+    </script>
+    <script>
+
+        let f=function (name) {
+            console.log(name);
+        };
+        let a = useOnce(f);
+
+        document.getElementById("btn").addEventListener("click", ()=> {
+            a(111)
+        })
+
+
+        function test() {
+            console.log('执行');
+        }
+    </script>
+</body>
+</html>
