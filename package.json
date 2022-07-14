@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "publish": "node ./build/publish.js"
+    "publish": "node ./build/publish.js",
+    "jsdoc": "node_modules/.bin/jsdoc -r -c ./jsdoc-conf.json -R README.md -d doc/jsdoc"
   },
   "keywords": [],
   "author": "",
@@ -13,6 +14,7 @@
   "devDependencies": {
     "@rollup/plugin-commonjs": "^22.0.0",
     "jest": "^28.1.2",
+    "jsdoc": "^3.6.10",
     "rollup": "^2.75.7",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-copy": "^3.4.0",
